@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "moko"]
+	path = moko
+	url = https://github.com/coldfir3/moko
+	shallow = true
+	registered = true
