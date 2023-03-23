@@ -8,3 +8,8 @@
 	url = https://github.com/coldfir3/moko
 	shallow = true
 	registered = true
+[submodule "redR"]
+	path = redR
+	url = https://github.com/cran/redR
+	shallow = true
+	registered = true
